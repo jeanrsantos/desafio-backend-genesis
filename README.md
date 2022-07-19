@@ -4,8 +4,8 @@ Nesse desafio será cobrado a implementação de um caso de uso simples, use as 
 
 ## Configuração do Desafio
 
-- Use esse repositório como ponto de partida.
-- Quando você terminar, lembre de fazer `push` em tudo e abrir um pull request.
+- Use esse repositório como ponto de partida
+- Quando você terminar, lembre de fazer `push` em tudo e abrir um pull request
 
 ## O que você precisa entregar?
 
@@ -36,7 +36,7 @@ Seja criativo!
 
 ## Regras de Implementação
 
-- Explique suas ideias como comentários no código; Fique a vontade para usar Português ou Inglês.
+- Explique suas ideias como comentários no código; Fique a vontade para usar Português ou Inglês
 
 ## Importante
 
