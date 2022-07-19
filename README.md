@@ -1,6 +1,6 @@
 # Gênesis - Desafio back-end
 
-Nesse desafio será cobrado a implementação de um caso de uso simples, use as técnologias com o qual você é mais familiar:
+Nesse desafio será cobrado a implementação de um caso de uso simples, use as tecnologias com o qual você é mais familiar.
 
 ## Configuração do Desafio
 
